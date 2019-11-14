@@ -1,1 +1,1 @@
-# StrucniKurs
+# JavaScript-matf
