@@ -537,7 +537,7 @@ function makeProgressBar() {
 
             }
 
-        }, 500)
+        }, 550)
 
     })();
 
