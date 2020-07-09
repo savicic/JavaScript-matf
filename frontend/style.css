@@ -1,0 +1,44 @@
+
+.container {
+    width: 320px;
+    height: 320px;
+    margin: auto;
+    margin-top: 100px;
+    
+  }
+  
+  .container h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(219, 16, 67);
+  }
+  
+  .row {
+    height: 100px;
+  }
+  
+  .col {
+    height: 100px;
+    width: 100px;
+    float: left;
+    font-size: 100px;
+    text-align: center;
+    color: yellow;
+    line-height: 100px;
+  }
+  
+  .col:hover {
+      background-color: rgba(240, 61, 114, 0.363);
+  }
+  
+  .border-b {
+    border-bottom: 10px solid rgb(28, 151, 233);
+  }
+  
+  .border-r {
+    border-right: 10px solid rgb(28, 151, 233);
+  }
+  
+  .winner {
+      color: rgb(219, 16, 67);
+  }

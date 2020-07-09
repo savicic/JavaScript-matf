@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(247, 210, 168);
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+#header {
+   color: rgb(102, 0, 51);
+   margin-left: 530px;
+   font-size: 35px;
+   font-family: cursive;
+}
+
+.mainWrapper {
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+}
+
+.board {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    border: 1px solid rgb(102, 0, 51);
+    width: 100%;
+  }
+  
+  .board td, .board th {
+    border: 1px solid rgb(102, 0, 51);
+    padding: 8px;
+  }
+  
+  .board tr:nth-child(even){background-color: #f2f2f2;}
+  .board tr:nth-child(odd){background-color: #bec7c5fd;}
+  
+  .board tr:hover {background-color: rgb(151, 7, 79);}
+  
+  .board th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgba(202, 33, 75, 0.774);
+    color: white;
+    text-align: center;
+    font-family: cursive;
+  }
+
+  
+  
